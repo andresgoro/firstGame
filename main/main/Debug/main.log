@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\system_logic.h(12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\system_logic.h(13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\system_logic.h(20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\system_logic.h(21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\system_logic.h(31): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\system_logic.h(32): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\system_logic.h(38): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\system_logic.h(40): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\system_logic.h(43): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\system_logic.h(74): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\system_logic.h(80): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\map_creating.h(52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\map_creating.h(52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\hero_creating.h(32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\hero_creating.h(62): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\andres coder\desktop\projects\c++ platformer\main\main\main.cpp(42): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\Andres Coder\Desktop\Projects\c++ platformer\main\Debug\platformere_training.exe при последней инкрементной компоновке; выполняется полная компоновка
+  main.vcxproj -> C:\Users\Andres Coder\Desktop\Projects\c++ platformer\main\Debug\platformere_training.exe
